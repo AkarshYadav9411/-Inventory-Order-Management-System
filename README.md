@@ -8,8 +8,8 @@ A full-stack web application that helps businesses manage their products, custom
 
 | Component | Link |
 |-----------|------|
-| 🌐 Frontend | [https://inventory-order-management-system-dusky.vercel.app/](#) |
-| ⚙️ Backend API | [https://inventory-order-management-system-b945.onrender.com](#) |
+| 🌐 Frontend | [inventory-app.vercel.app](https://inventory-order-management-system-dusky.vercel.app/) |
+| ⚙️ Backend API | [inventory-api.onrender.com](https://inventory-order-management-system-b945.onrender.com) |
 
 ---
 
